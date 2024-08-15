@@ -12,5 +12,4 @@ movie-recommendation-system/
 │
 ├── streamlit_app.py       # Main application script
 ├── similarity.pkl         # Precomputed similarity matrix (may require Git LFS)
-├── movie_data.csv         # Dataset containing movie information
-└── requirements.txt       # Python dependencies
+└── movie_data.csv         # Dataset containing movie information
